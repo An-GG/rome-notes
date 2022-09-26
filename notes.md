@@ -299,3 +299,12 @@ Technological Instrumentation
 # 9/23
 
 - hodge says "The presumption thus is not only that on this aqueduct the construction was divided up into separate contracts (which, on so large a project, would in any case be no more than a reasonable assumption),"
+
+# 926
+
+-  surveying devices:
+    - They could actually kind of measure angle
+    - they can get acurate (relative) positioning useing geometry, without any absolute lenght measurement
+    - you can go to some other point where you can see target point and vantage point as well
+        - both angles allow for high relative accuracy without absolute accuracy
+
