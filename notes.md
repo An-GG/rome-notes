@@ -295,3 +295,7 @@ Technological Instrumentation
     - we don't know if the maps were schematical, or if they were positionally and accurate to shape
         - prob schematical, bc its not useful to be accureate 
     - they had capability for positional accuracy tho we know from farm maps
+    -
+# 9/23
+
+- hodge says "The presumption thus is not only that on this aqueduct the construction was divided up into separate contracts (which, on so large a project, would in any case be no more than a reasonable assumption),"
