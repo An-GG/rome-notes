@@ -300,7 +300,7 @@ Technological Instrumentation
 
 - hodge says "The presumption thus is not only that on this aqueduct the construction was divided up into separate contracts (which, on so large a project, would in any case be no more than a reasonable assumption),"
 
-# 926
+# 9/26
 
 -  surveying devices:
     - They could actually kind of measure angle
@@ -308,3 +308,22 @@ Technological Instrumentation
     - you can go to some other point where you can see target point and vantage point as well
         - both angles allow for high relative accuracy without absolute accuracy
 
+# 9/28
+
+- `rama` stands for branch in roman
+    - what are the ramafications 
+        - what are the branch effects
+
+- map of aqueduct plan (model, not dimensionally accurate)
+    - has branches from main aqueduct saying "some dude's house: two waters, from 2nd to 6th hour"
+    - aqueducts branched alot near the city to distribute, the switched water on and off
+
+- roman sundial was inscripted on stone, not usually dial shaped
+    - hyperbolic looking diagram with not just lines at various direction for hour, but also has lines that measure shadow length
+        - this changes based on geographic location
+
+- marble plan at rome, giant, very positionally acurate map carved in marble
+    - incredible precision down to the first floor of every building in the urban center
+    - useful for buying and selling property and taxation
+        - our best guess for why this map exists: water bill was basicaly property tax
+        - water office was measuring square footage of property (frontienus talks about this)
