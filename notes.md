@@ -327,3 +327,27 @@ Technological Instrumentation
     - useful for buying and selling property and taxation
         - our best guess for why this map exists: water bill was basicaly property tax
         - water office was measuring square footage of property (frontienus talks about this)
+
+# 9/30
+
+- siphon utilizes water under pressure
+- siphon at aspendos had like towers in middle of drop and rise, which brought the water up and down for seemingly no reason
+    - it wasn't to decrease pressure, bc the towers rose from lowest point
+        - (meaning they would need to be able to to make pipes that can already widthstand max  pressure)
+        - maintainence wasn't that big of a deal
+        - it was prob to get rid of air bubbles when water suddenly turns on and off, such as with seasonal change
+- despite what might be theorized, they could not get water to higher than origin point
+    - fluid flow friction is proportional to velocity, you're really fighting nature
+
+- in the literature they just call the top of the header tank 1 atmosphere
+    - romans used measurement called a "head" (hight difference), which is accurate for pressure
+
+- lead pipes were the favored material as it could be strongly soldered on site
+- there are other examples of towers where they are actually used more for water storage orjst or for maintaining / lowering pressure - pompeii
+
+- most pipes in cities had very steep gradient, they used relieving tank / tower system over large gradients to slow them down
+
+--- 
+need good calibration and measurement methods
+- they couldn't just predict with math, had to be able to measure
+
