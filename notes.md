@@ -351,3 +351,58 @@ Technological Instrumentation
 need good calibration and measurement methods
 - they couldn't just predict with math, had to be able to measure
 
+# 10/12
+
+- each aqueduct had a letter  / significant name
+    - V: virgo, AL: auqua old version, AN: aqua novice 
+- aqua novice was the longest and probably the most recognizable 
+- aqueducts are kinda hard to map because you can really only work based of sections of remains
+    - also lots of aqueaducts run in parallel but are of very different generations, 
+    - you can use elevation to make a better guess
+
+- tivoli is a very cool city in rome/italy, lots of natural springs and water and whatnot
+    - on a map, aqueducts do something interesting, the get near city of tivoli and then go away at 90 degree angle
+    - ok apparently you have to do waterfall if you get near tivoli 
+    -
+- **Appius** was very wealthy and powerful leader around 350 ish bce, made some of the earliest aqueducts and also **Appian way** first major roman road idk why important but very important 
+
+- roman names
+    - Appius Claudius Caecus
+        - family name usually ends in ius 
+    - woman usually only have one name: the family name
+        - Claudia: Appius Claudius Caecus / Great grandchildren
+    - last name was shared among lots of people, like there were basically only tree (one was Caecus)
+        - we dont know why picked one over others
+
+- passsus
+    - is like five feet, which is like two big steps
+    - pedes is feet
+    - pes is foot
+- 1000 passus = milia (derives mile)
+    - they defined it as 1000 exactly
+    - but unit system was inconsistent 
+    - 12 unciae is one pes
+        - derives inch
+        - 16 digiti idk what
+        - libra is latin pound
+
+- water mill under americas university
+    - idk look it up
+    
+- sextus julius frontinius
+    - talks about how water was distributed in city 
+        - estimates 3 categories
+            - illegal taps / legal taps in countryside : 10,000 quinarae
+                - `interesting, estimated like half the water was being stolen`
+                - he says he found many many illegal taps, but maybe it was just leaking
+                    - *should be able to find systematically? bin search using expected value
+            - outer city
+            - innter city (not related to city walls those were irrelevant for a while)
+
+
+- city was divided into 14 regions
+-
+- there were parks around city that eventually the emperor ended up owning all of
+    - this was *emperor property* passed form emperor to emperorr 
+        - which is very distinct `from an emperors personal property`  
+    - the parks were part of fiscus,  emperor's fisc
